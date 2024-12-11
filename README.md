@@ -22,9 +22,8 @@ Sigue los pasos a continuación para configurar y ejecutar el proyecto:
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone [<URL del repositorio>](https://github.com/lautaropereirab/sales_viz.git)
-   cd <sales_viz>
-   ```
+   git clone https://github.com/lautaropereirab/sales_viz.git
+   cd sales_viz
 
 2. Asegúrate de tener instalado Python (>=3.7) y un gestor de paquetes como `pip`.
 
