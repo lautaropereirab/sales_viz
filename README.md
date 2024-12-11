@@ -1,1 +1,1 @@
-# sales_viz
+# Project #2: Data Visualization
