@@ -46,11 +46,13 @@ Sigue los pasos a continuación para configurar y ejecutar el proyecto:
 
 ## Dataset
 El dataset proporcionado incluye información sobre las ventas de productos en una tienda de ropa y accesorios. Contiene columnas como:
-- **Fecha de venta**
-- **Categoría del producto**
-- **Cantidad vendida**
-- **Precio unitario**
-- **Ingresos generados**
+- **Customer_ID**
+- **Age**
+- **Gender**
+- **Item**
+- **Category**
+- **Purchase Amount (USD)**
+  y más
 
 Asegúrate de revisar el archivo `shopping_trends.csv` para comprender mejor la estructura de los datos.
 
