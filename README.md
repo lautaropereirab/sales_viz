@@ -58,6 +58,7 @@ Asegúrate de revisar el archivo `shopping_trends.csv` para comprender mejor la 
 ## Licencia
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
----
+## Autor
 
-¡Gracias por explorar **Proyecto #2: Data Visualization**! Si tienes preguntas o comentarios, no dudes en contactarme.
+Este proyecto fue creado y es mantenido por [Lautaro Pereira Basile](https://github.com/lautaropereirab)
+
